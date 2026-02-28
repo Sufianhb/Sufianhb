@@ -7,7 +7,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **Frameworks como Bootstrap y Vue.js, Git/GitHub y las mejores prácticas de programación.**
 
-- 💬 Pregunta yo sobre **Java, PHP, HTML, CSS, JAVASCRIPT**
+- 💬 Pregunta  sobre **Java, PHP, HTML, CSS, JAVASCRIPT**
 
 - 📫 Cómo contactarme **sufianhossainbadri@gmail.com**
 
