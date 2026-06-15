@@ -31,7 +31,7 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/sufian-hossain-badri/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin-sufian-hossain-badri" height="30" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin-sufianhb" height="30" width="40" />
 </a>
 </p>
 
