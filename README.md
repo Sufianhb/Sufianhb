@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Sufian</h1>
-<h3 align="center">Estudiante de Desarrollo de Aplicaciones Web</h3>
+<h3 align="center">Desarrollador de software</h3>
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=sufianhb&label=Profile%20views&color=0e75b6&style=flat" alt="sufianhb" />
